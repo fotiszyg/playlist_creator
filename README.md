@@ -26,5 +26,12 @@ This step will be redundant in the future, kept for now as starting point.
 Then you can run http://127.0.0.1:8000/list/1970 to get all songs in the database for the 
 decade you want.
 
+### Info about time
+
+I spent about 1,5 hours to create a simple flask application and connect it to the postgres database.
+Then I spent around 2 hours to design what the application will do, as well as how.
+After that, I spent around 5 to 6 hours to implement the solution. 
+Most of it was to understand how to read the csv file (as csv package was not working correctly).
+Finally, I spent 30 minutes doing manual testing and about 30 minutes to write some simple unit tests.
 
 
