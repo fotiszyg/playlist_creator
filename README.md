@@ -14,7 +14,7 @@ In the future this will be extended to create more specialised lists from the da
 
 First install all dependencies as listed.
 
-Second step is to run the following command from your terminal so application starts:
+Second step is to run the following command from your terminal so application can start:
 ```
 python -m flask --app app run --port 8000 --debug
 ```
